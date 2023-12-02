@@ -1,0 +1,48 @@
+.main{
+    padding: 0;
+    margin: 0;
+}
+header{
+    width: 100%;
+}
+header{
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    background: white;
+}
+header img{
+    width: 7%;
+    float: left;
+}
+header .nav{
+    float: left;
+}
+header .nav li{
+    float: left;
+    list-style: none;
+    margin: 20px 0 0 50px;
+    font-size: 20px;
+}
+header .nav li a{
+    text-decoration: none;
+    color: black;
+}
+header .nav .current a{
+    color: aqua;
+    border-bottom: 5px solid ;
+}
+.dh{
+    align-items: center;
+    position: fixed;
+    top: 30%;
+    width: 5%;
+    text-align: center;
+    background: white;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+.dh img{
+    width: 50%;
+    
+}
